@@ -8,3 +8,4 @@ Nesse desafio, foi solicitado ao usuário que ele insira dois números e, a part
 - [ ]  Verifique se os dois números inseridos são iguais (ou diferentes).
 
 > Stage 04 - Desafio 01 - Rocketseat - Trilha Explorer.
+> JavaScript
